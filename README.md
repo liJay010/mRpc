@@ -1,10 +1,9 @@
-# Apollo
+# mRpc
 
 使用 C/C++ 开发的一款高性能的后端分布式服务器网络框架。该项目具有如下要点：
 
 - 使用 C++11 重写并简化 [muduo](https://github.com/chenshuo/muduo) 网络库；
-- 仿写了 [tcmalloc](https://github.com/google/tcmalloc) 的高并发内存池；
-- 加入了 [sylar](https://github.com/sylar-yin/sylar) 的日志模块并将其改进为异步日志(异步日志未实现)；
+- 高并发内存池(待写)；
 - 使用 [protobuf](https://github.com/protocolbuffers/protobuf) 来进行 RPC 序列化/反序列化；
 - 使用 [Zookeeper](https://zookeeper.apache.org/) 来作为分布式的注册和发现服务；
 
@@ -12,12 +11,11 @@
 
 ### 1. 开发环境
 
-- OS：Ubuntu 22.04 LTS
-- 构建工具：CMake 3.16.3
-- 编译器：GCC 9.4.0
-- 调试器：GDB 9.2
+- OS：Ubuntu 18.04 LTS
+- 构建工具：CMake 3.10.2
+- 编译器：GCC 7.5.0
+- 调试器：GDB 8.1.1
 - 第三方模块：
-    - [json.cpp](https://github.com/nlohmann/json)：3.11.2
     - protobuf：3.17.0
     - ZooKeeper：3.4.10
 
