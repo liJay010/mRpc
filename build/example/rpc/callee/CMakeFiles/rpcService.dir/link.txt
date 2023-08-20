@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -std=c++11 -fPIC  -rdynamic CMakeFiles/rpcService.dir/userService.cc.o CMakeFiles/rpcService.dir/__/useservice.pb.cc.o  -o ../../../../bin/rpcService  -L/storage4/lxj/Cplus/mRpc/lib -Wl,-rpath,/storage4/lxj/Cplus/mRpc/lib ../../../../lib/libmrpc.so ../../../../lib/libmrpcNet.so -lprotobuf -lpthread -lzookeeper_mt -lprotobuf 

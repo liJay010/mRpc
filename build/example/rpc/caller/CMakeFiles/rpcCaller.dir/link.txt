@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -std=c++11 -fPIC  -rdynamic CMakeFiles/rpcCaller.dir/calluserservice.cc.o CMakeFiles/rpcCaller.dir/__/useservice.pb.cc.o  -o ../../../../bin/rpcCaller  -L/storage4/lxj/Cplus/mRpc/lib -Wl,-rpath,/storage4/lxj/Cplus/mRpc/lib ../../../../lib/libmrpc.so ../../../../lib/libmrpcNet.so -lprotobuf -lpthread -lzookeeper_mt -lprotobuf 

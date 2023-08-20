@@ -1,0 +1,302 @@
+2023/08/20 14:49:22:func=updateChannel => fd=4 events=3 index=-1 
+
+2023/08/20 14:49:22:service_name:UserServiceRpc
+2023/08/20 14:49:22:method_name:Login
+2023/08/20 14:49:22:method_name:Register
+2023/08/20 14:49:22:func=updateChannel => fd=12 events=3 index=-1 
+
+2023/08/20 14:49:22:EventLoop 0x7f98a9c10ba0 start looping 
+
+2023/08/20 14:49:22:func=updateChannel => fd=14 events=3 index=-1 
+
+2023/08/20 14:49:22:EventLoop 0x7f98a940fba0 start looping 
+
+2023/08/20 14:49:22:func=updateChannel => fd=16 events=3 index=-1 
+
+2023/08/20 14:49:22:EventLoop 0x7f98a8c0eba0 start looping 
+
+2023/08/20 14:49:22:func=updateChannel => fd=18 events=3 index=-1 
+
+2023/08/20 14:49:22:EventLoop 0x7f9893ffeba0 start looping 
+
+2023/08/20 14:49:22:func=updateChannel => fd=7 events=3 index=-1 
+
+2023/08/20 14:49:22:EventLoop 0x7fff4d928500 start looping 
+
+2023/08/20 14:49:42:1 events happened 
+
+2023/08/20 14:49:42:channel handleEvent revents:1
+
+2023/08/20 14:49:42:TcpServer::newConnection [mRpcSever] - new connection [mRpcSever-127.0.0.1:8000#1] from 127.0.0.1:44420 
+
+2023/08/20 14:49:42:TcpConnection::ctor[mRpcSever-127.0.0.1:8000#1] at fd=6
+
+2023/08/20 14:49:42:1 events happened 
+
+2023/08/20 14:49:42:channel handleEvent revents:1
+
+2023/08/20 14:49:42:func=updateChannel => fd=6 events=3 index=-1 
+
+2023/08/20 14:49:42:1 events happened 
+
+2023/08/20 14:49:42:channel handleEvent revents:1
+
+2023/08/20 14:49:42:1 events happened 
+
+2023/08/20 14:49:42:channel handleEvent revents:17
+
+2023/08/20 14:49:42:TcpConnection::handleClose fd=6 state=3 
+
+2023/08/20 14:49:42:func=updateChannel => fd=6 events=0 index=1 
+
+2023/08/20 14:49:42:1 events happened 
+
+2023/08/20 14:49:42:channel handleEvent revents:1
+
+2023/08/20 14:49:42:TcpServer::removeConnectionInLoop [mRpcSever] - connection mRpcSever-127.0.0.1:8000#1
+
+2023/08/20 14:49:42:1 events happened 
+
+2023/08/20 14:49:42:channel handleEvent revents:1
+
+2023/08/20 14:49:42:func=removeChannel => fd=6
+
+2023/08/20 14:49:42:TcpConnection::dtor[mRpcSever-127.0.0.1:8000#1] at fd=6 state=0 
+
+2023/08/20 14:50:01:1 events happened 
+
+2023/08/20 14:50:01:channel handleEvent revents:1
+
+2023/08/20 14:50:01:TcpServer::newConnection [mRpcSever] - new connection [mRpcSever-127.0.0.1:8000#2] from 127.0.0.1:44424 
+
+2023/08/20 14:50:01:TcpConnection::ctor[mRpcSever-127.0.0.1:8000#2] at fd=21
+
+2023/08/20 14:50:01:1 events happened 
+
+2023/08/20 14:50:01:channel handleEvent revents:1
+
+2023/08/20 14:50:01:func=updateChannel => fd=21 events=3 index=-1 
+
+2023/08/20 14:50:01:1 events happened 
+
+2023/08/20 14:50:01:channel handleEvent revents:1
+
+2023/08/20 14:50:01:1 events happened 
+
+2023/08/20 14:50:01:channel handleEvent revents:17
+
+2023/08/20 14:50:01:TcpConnection::handleClose fd=21 state=3 
+
+2023/08/20 14:50:01:func=updateChannel => fd=21 events=0 index=1 
+
+2023/08/20 14:50:01:1 events happened 
+
+2023/08/20 14:50:01:channel handleEvent revents:1
+
+2023/08/20 14:50:01:TcpServer::removeConnectionInLoop [mRpcSever] - connection mRpcSever-127.0.0.1:8000#2
+
+2023/08/20 14:50:01:1 events happened 
+
+2023/08/20 14:50:01:channel handleEvent revents:1
+
+2023/08/20 14:50:01:func=removeChannel => fd=21
+
+2023/08/20 14:50:01:TcpConnection::dtor[mRpcSever-127.0.0.1:8000#2] at fd=21 state=0 
+
+2023/08/20 14:53:03:func=updateChannel => fd=4 events=3 index=-1 
+
+2023/08/20 14:53:03:service_name:UserServiceRpc
+2023/08/20 14:53:03:method_name:Login
+2023/08/20 14:53:03:method_name:Register
+2023/08/20 14:53:03:func=updateChannel => fd=12 events=3 index=-1 
+
+2023/08/20 14:53:03:EventLoop 0x7f9baabd0ba0 start looping 
+
+2023/08/20 14:53:03:func=updateChannel => fd=14 events=3 index=-1 
+
+2023/08/20 14:53:03:EventLoop 0x7f9baa3cfba0 start looping 
+
+2023/08/20 14:53:03:func=updateChannel => fd=16 events=3 index=-1 
+
+2023/08/20 14:53:03:EventLoop 0x7f9ba9bceba0 start looping 
+
+2023/08/20 14:53:03:func=updateChannel => fd=18 events=3 index=-1 
+
+2023/08/20 14:53:03:EventLoop 0x7f9ba93cdba0 start looping 
+
+2023/08/20 14:53:03:func=updateChannel => fd=7 events=3 index=-1 
+
+2023/08/20 14:53:03:EventLoop 0x7ffe8cd4cc20 start looping 
+
+2023/08/20 14:53:19:1 events happened 
+
+2023/08/20 14:53:19:channel handleEvent revents:1
+
+2023/08/20 14:53:19:TcpServer::newConnection [mRpcSever] - new connection [mRpcSever-127.0.0.1:8000#1] from 127.0.0.1:44444 
+
+2023/08/20 14:53:19:TcpConnection::ctor[mRpcSever-127.0.0.1:8000#1] at fd=6
+
+2023/08/20 14:53:19:1 events happened 
+
+2023/08/20 14:53:19:channel handleEvent revents:1
+
+2023/08/20 14:53:19:func=updateChannel => fd=6 events=3 index=-1 
+
+2023/08/20 14:53:19:1 events happened 
+
+2023/08/20 14:53:19:channel handleEvent revents:1
+
+2023/08/20 14:53:19:1 events happened 
+
+2023/08/20 14:53:19:channel handleEvent revents:17
+
+2023/08/20 14:53:19:TcpConnection::handleClose fd=6 state=3 
+
+2023/08/20 14:53:19:func=updateChannel => fd=6 events=0 index=1 
+
+2023/08/20 14:53:19:1 events happened 
+
+2023/08/20 14:53:19:channel handleEvent revents:1
+
+2023/08/20 14:53:19:TcpServer::removeConnectionInLoop [mRpcSever] - connection mRpcSever-127.0.0.1:8000#1
+
+2023/08/20 14:53:19:1 events happened 
+
+2023/08/20 14:53:19:channel handleEvent revents:1
+
+2023/08/20 14:53:19:func=removeChannel => fd=6
+
+2023/08/20 14:53:19:TcpConnection::dtor[mRpcSever-127.0.0.1:8000#1] at fd=6 state=0 
+
+2023/08/20 14:53:22:1 events happened 
+
+2023/08/20 14:53:22:channel handleEvent revents:1
+
+2023/08/20 14:53:22:TcpServer::newConnection [mRpcSever] - new connection [mRpcSever-127.0.0.1:8000#2] from 127.0.0.1:44448 
+
+2023/08/20 14:53:22:TcpConnection::ctor[mRpcSever-127.0.0.1:8000#2] at fd=21
+
+2023/08/20 14:53:22:1 events happened 
+
+2023/08/20 14:53:22:channel handleEvent revents:1
+
+2023/08/20 14:53:22:func=updateChannel => fd=21 events=3 index=-1 
+
+2023/08/20 14:53:22:1 events happened 
+
+2023/08/20 14:53:22:channel handleEvent revents:1
+
+2023/08/20 14:53:22:1 events happened 
+
+2023/08/20 14:53:22:channel handleEvent revents:17
+
+2023/08/20 14:53:22:TcpConnection::handleClose fd=21 state=3 
+
+2023/08/20 14:53:22:func=updateChannel => fd=21 events=0 index=1 
+
+2023/08/20 14:53:22:1 events happened 
+
+2023/08/20 14:53:22:channel handleEvent revents:1
+
+2023/08/20 14:53:22:TcpServer::removeConnectionInLoop [mRpcSever] - connection mRpcSever-127.0.0.1:8000#2
+
+2023/08/20 14:53:22:1 events happened 
+
+2023/08/20 14:53:22:channel handleEvent revents:1
+
+2023/08/20 14:53:22:func=removeChannel => fd=21
+
+2023/08/20 14:53:22:TcpConnection::dtor[mRpcSever-127.0.0.1:8000#2] at fd=21 state=0 
+
+2023/08/20 15:03:54:func=updateChannel => fd=4 events=3 index=-1 
+
+2023/08/20 15:03:54:service_name:UserServiceRpc
+2023/08/20 15:03:54:method_name:Login
+2023/08/20 15:03:54:method_name:Register
+2023/08/20 15:03:54:RpcProvider start service at ip:127.0.0.1 port:8000
+2023/08/20 15:03:54:func=updateChannel => fd=12 events=3 index=-1 
+
+2023/08/20 15:03:54:EventLoop 0x7fd71a7baba0 start looping 
+
+2023/08/20 15:03:54:func=updateChannel => fd=14 events=3 index=-1 
+
+2023/08/20 15:03:54:EventLoop 0x7fd719fb9ba0 start looping 
+
+2023/08/20 15:03:54:func=updateChannel => fd=16 events=3 index=-1 
+
+2023/08/20 15:03:54:EventLoop 0x7fd7197b8ba0 start looping 
+
+2023/08/20 15:03:54:func=updateChannel => fd=18 events=3 index=-1 
+
+2023/08/20 15:03:54:EventLoop 0x7fd718fb7ba0 start looping 
+
+2023/08/20 15:03:54:func=updateChannel => fd=7 events=3 index=-1 
+
+2023/08/20 15:03:54:EventLoop 0x7ffede256ee0 start looping 
+
+2023/08/20 15:04:14:1 events happened 
+
+2023/08/20 15:04:14:channel handleEvent revents:1
+
+2023/08/20 15:04:14:TcpServer::newConnection [mRpcSever] - new connection [mRpcSever-127.0.0.1:8000#1] from 127.0.0.1:44516 
+
+2023/08/20 15:04:14:TcpConnection::ctor[mRpcSever-127.0.0.1:8000#1] at fd=5
+
+2023/08/20 15:04:14:1 events happened 
+
+2023/08/20 15:04:14:channel handleEvent revents:1
+
+2023/08/20 15:04:14:func=updateChannel => fd=5 events=3 index=-1 
+
+2023/08/20 15:04:14:1 events happened 
+
+2023/08/20 15:04:14:channel handleEvent revents:1
+
+2023/08/20 15:04:14:1 events happened 
+
+2023/08/20 15:04:14:channel handleEvent revents:17
+
+2023/08/20 15:04:14:TcpConnection::handleClose fd=5 state=3 
+
+2023/08/20 15:04:14:func=updateChannel => fd=5 events=0 index=1 
+
+2023/08/20 15:04:14:1 events happened 
+
+2023/08/20 15:04:14:channel handleEvent revents:1
+
+2023/08/20 15:04:14:TcpServer::removeConnectionInLoop [mRpcSever] - connection mRpcSever-127.0.0.1:8000#1
+
+2023/08/20 15:04:14:1 events happened 
+
+2023/08/20 15:04:14:channel handleEvent revents:1
+
+2023/08/20 15:04:14:func=removeChannel => fd=5
+
+2023/08/20 15:04:14:TcpConnection::dtor[mRpcSever-127.0.0.1:8000#1] at fd=5 state=0 
+
+[INFO]2023/08/20 15:07:22:func=updateChannel => fd=4 events=3 index=-1 
+
+[INFO]2023/08/20 15:07:22:service_name:UserServiceRpc
+[INFO]2023/08/20 15:07:22:method_name:Login
+[INFO]2023/08/20 15:07:22:method_name:Register
+[INFO]2023/08/20 15:07:22:RpcProvider start service at ip:127.0.0.1 port:8000
+[INFO]2023/08/20 15:07:22:func=updateChannel => fd=12 events=3 index=-1 
+
+[INFO]2023/08/20 15:07:22:EventLoop 0x7fa75d002ba0 start looping 
+
+[INFO]2023/08/20 15:07:22:func=updateChannel => fd=14 events=3 index=-1 
+
+[INFO]2023/08/20 15:07:22:EventLoop 0x7fa75c801ba0 start looping 
+
+[INFO]2023/08/20 15:07:22:func=updateChannel => fd=16 events=3 index=-1 
+
+[INFO]2023/08/20 15:07:22:EventLoop 0x7fa747ffeba0 start looping 
+
+[INFO]2023/08/20 15:07:22:func=updateChannel => fd=18 events=3 index=-1 
+
+[INFO]2023/08/20 15:07:22:EventLoop 0x7fa7477fdba0 start looping 
+
+[INFO]2023/08/20 15:07:22:func=updateChannel => fd=7 events=3 index=-1 
+
+[INFO]2023/08/20 15:07:22:EventLoop 0x7ffc8a1e8980 start looping 
+

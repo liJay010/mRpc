@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -std=c++11 -fPIC  -rdynamic CMakeFiles/test_server.dir/testserver.cc.o  -o ../../../bin/test_server  -L/storage4/lxj/Cplus/mRpc/lib -Wl,-rpath,/storage4/lxj/Cplus/mRpc/lib ../../../lib/libmrpcNet.so -lpthread 
